@@ -1,34 +1,76 @@
-# Marking — CryptoSilicon
+# Marking Sheet — CryptoSilicon
 
-**Project title:** CryptoSilicon: Thermal-Transient Hardware Fingerprinting
+## Project identity
 
-## Scores
+| Field | Detail |
+|-------|--------|
+| Project | CryptoSilicon: Thermal-Transient Hardware Fingerprinting |
+| Submitter / team (from materials) | Sreeja Ghosh (ETE, Roll 2304045) |
+| Evaluation basis | Contest CSV + uploaded Business Model & Project Report (and OCR where PDFs were image-only) |
+| Presentation (video) | **Not scored here** — reserved for manual marking |
+
+## Scorecard
 
 | Criterion | Score | Max |
 |-----------|-------|-----|
-| Innovation & Originality | 5 | 5 |
-| Feasibility | 2 | 5 |
-| Impact & Relevance | 4 | 5 |
-| Presentation (Video Quality & Clarity) | — | 5 |
-| **Subtotal (scored)** | **11** | **15** |
-| **Final (with video)** | **—** | **20** |
+| 1. Innovation & Originality | 5 | 5 |
+| 2. Feasibility | 2 | 5 |
+| 3. Impact & Relevance | 4 | 5 |
+| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| **Subtotal (criteria 1–3)** | **11** | **15** |
+| **Final total (after video)** | **—** | **20** |
 
-## Reasons
+## Project snapshot (from submissions)
 
-### 1. Innovation & Originality — 5/5
-- Thermal-transient PUF / on-the-fly keying with tamper-evident physics is the most research-forward idea in the set.
-- IP-licensing BM (ARM-like) matches the nature of the IP.
-- Clear originality versus app/marketplace majority.
+CryptoSilicon proposes a hardware root of trust using thermal-transient fingerprinting (PUF-style): a thermal pulse and wavelet processing yield a chip-unique key generated on demand (not stored at rest), claimed tamper-evident under physical probing. Business model is asset-light IP licensing and per-unit royalties (0.05–0.50), plus calibration subscriptions and design-in consulting—ARM-like, not a fab operator.
 
-### 2. Feasibility — 2/5
-- Requires silicon characterization, EDA hard macros, and fabless design-in—far beyond typical contest execution.
-- Student team can prototype concepts; production royalties path is long and capital-heavy.
-- High idea quality, low near-term shippability.
+---
 
-### 3. Impact & Relevance — 4/5
-- Counterfeit/tamper hardware security matters for IoT, defense, medical, telecom supply chains.
-- Impact is large if adopted, but distant and B2B/IP-mediated.
-- Relevance is global-tech rather than immediate BD citizen pain.
+## 1. Innovation & Originality — 5/5
 
-### 4. Presentation (Video Quality & Clarity) — —/5
-- Left blank for manual marking later.
+### What was evaluated
+Scientific/engineering originality relative to typical contest software ideas.
+
+### Analysis
+This is the most research-forward submission: exploiting fabrication randomness via thermal transients, on-the-fly keys, and molecular-level tamper evidence. The BM correctly chooses IP licensing rather than pretending a student team will run a fab. Versus app clones, originality is maximal. Report is image-heavy but OCR recovers a coherent threat model (counterfeit/recycled/cloned silicon) and pipeline narrative.
+
+### Why this score
+**5/5** — Highest technical originality in the set; IP framing matches the invention type.
+
+---
+
+## 2. Feasibility — 2/5
+
+### What was evaluated
+Near-term executability by a student team toward the claimed commercial path.
+
+### Analysis
+Real PUF/thermal characterization, GDSII hard macros, EDA library design-in, and fabless royalty deals require years, labs, and industry relationships. A contest can present the concept; it cannot ship production silicon security IP quickly. Feasibility for *idea exploration* exists; feasibility for *stated commercialization* in contest horizon is low.
+
+### Why this score
+**2/5** — Conceptually serious, practically distant; lowest shippability among high-innovation entries.
+
+---
+
+## 3. Impact & Relevance — 4/5
+
+### What was evaluated
+Importance of hardware security / anti-counterfeit if the IP were adopted.
+
+### Analysis
+Counterfeit and tampered chips threaten avionics, medical, defense, and IoT supply chains—high stakes globally. Impact is large but **indirect and long-horizon**, mediated by chip vendors, not immediate BD citizen services. Relevance is real; immediacy is lower than agri/health/assistive entries.
+
+### Why this score
+**4/5** — High strategic importance; delayed and B2B/IP-mediated delivery of impact.
+
+---
+
+## 4. Presentation (Video Quality & Clarity) — —/5
+
+Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+
+---
+
+## Overall note
+
+**Scored subtotal: 11/15.** Final contest total out of 20 depends on the pending Presentation mark.

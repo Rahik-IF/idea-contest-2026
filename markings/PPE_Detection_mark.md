@@ -1,34 +1,76 @@
-# Marking — PPE Detection
+# Marking Sheet — PPE Detection
 
-**Project title:** AI Based PPE Detection System
+## Project identity
 
-## Scores
+| Field | Detail |
+|-------|--------|
+| Project | AI Based PPE Detection System |
+| Submitter / team (from materials) | Shahadat Amin (IPE, Roll 2105026); report team also lists Niloy, Rakib, Habib, Yamaan |
+| Evaluation basis | Contest CSV + uploaded Business Model & Project Report (and OCR where PDFs were image-only) |
+| Presentation (video) | **Not scored here** — reserved for manual marking |
+
+## Scorecard
 
 | Criterion | Score | Max |
 |-----------|-------|-----|
-| Innovation & Originality | 2.5 | 5 |
-| Feasibility | 4 | 5 |
-| Impact & Relevance | 4 | 5 |
-| Presentation (Video Quality & Clarity) | — | 5 |
-| **Subtotal (scored)** | **10.5** | **15** |
-| **Final (with video)** | **—** | **20** |
+| 1. Innovation & Originality | 2.5 | 5 |
+| 2. Feasibility | 4 | 5 |
+| 3. Impact & Relevance | 4 | 5 |
+| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| **Subtotal (criteria 1–3)** | **10.5** | **15** |
+| **Final total (after video)** | **—** | **20** |
 
-## Reasons
+## Project snapshot (from submissions)
 
-### 1. Innovation & Originality — 2.5/5
-- AI PPE detection is a crowded, well-known CV application (Intenseye, Protex, etc. cited by the team).
-- Survey/Kano and local pricing work add rigor, not novelty.
-- Incremental applied AI.
+Computer-vision system to detect helmets, gloves, masks, vests in real time, alert on non-compliance, and report for safety officers. Strong survey/Kano and competitor pricing work; acceptable price band ~৳5500–7100; cites global PPE market growth and BD industrial demand.
 
-### 2. Feasibility — 4/5
-- Strong IPE-style feasibility: awareness survey, competitor pricing, ৳5500–7100 acceptable band, must-be features.
-- Deployable with cameras + models in controlled sites.
-- One of the more methodically grounded submissions.
+---
 
-### 3. Impact & Relevance — 4/5
-- Workplace injury prevention in construction/manufacturing/shipbuilding is highly relevant.
-- Compliance culture and real-time alerts can reduce harm if adopted.
-- Impact is industrial-safety significant, not consumer-mass.
+## 1. Innovation & Originality — 2.5/5
 
-### 4. Presentation (Video Quality & Clarity) — —/5
-- Left blank for manual marking later.
+### What was evaluated
+Novelty versus commercial PPE CV products the team itself cites.
+
+### Analysis
+Intenseye, Protex, Vertex AI PPE, Visionify appear in their own tables—the category is crowded. Local survey rigor adds method, not invention. Incremental applied AI.
+
+### Why this score
+**2.5/5** — Known application; little architectural novelty.
+
+---
+
+## 2. Feasibility — 4/5
+
+### What was evaluated
+Industrial-engineering style validation and deployability.
+
+### Analysis
+Awareness stats, must-be features, competitor prices, and local willingness-to-pay band make this one of the most methodically grounded submissions. Camera + model deployment in controlled sites is achievable. Strong feasibility relative to speculative hardware.
+
+### Why this score
+**4/5** — Excellent process rigor and deployable scope.
+
+---
+
+## 3. Impact & Relevance — 4/5
+
+### What was evaluated
+Workplace injury prevention in BD industry.
+
+### Analysis
+Construction, manufacturing, chemical, shipbuilding, pharma compliance matter for worker safety. Impact is significant in industrial settings, not mass-consumer. Solid relevance.
+
+### Why this score
+**4/5** — Clear safety impact in high-risk workplaces.
+
+---
+
+## 4. Presentation (Video Quality & Clarity) — —/5
+
+Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+
+---
+
+## Overall note
+
+**Scored subtotal: 10.5/15.** Final contest total out of 20 depends on the pending Presentation mark.

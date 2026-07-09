@@ -1,34 +1,76 @@
-# Marking — BIDHI
+# Marking Sheet — BIDHI
 
-**Project title:** BIDHI
+## Project identity
 
-## Scores
+| Field | Detail |
+|-------|--------|
+| Project | BIDHI |
+| Submitter / team (from materials) | Ishtiak Ahmad Anan (CSE, Roll 2203124) |
+| Evaluation basis | Contest CSV + uploaded Business Model & Project Report (and OCR where PDFs were image-only) |
+| Presentation (video) | **Not scored here** — reserved for manual marking |
+
+## Scorecard
 
 | Criterion | Score | Max |
 |-----------|-------|-----|
-| Innovation & Originality | 4 | 5 |
-| Feasibility | 3.5 | 5 |
-| Impact & Relevance | 4 | 5 |
-| Presentation (Video Quality & Clarity) | — | 5 |
-| **Subtotal (scored)** | **11.5** | **15** |
-| **Final (with video)** | **—** | **20** |
+| 1. Innovation & Originality | 4 | 5 |
+| 2. Feasibility | 3.5 | 5 |
+| 3. Impact & Relevance | 4 | 5 |
+| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| **Subtotal (criteria 1–3)** | **11.5** | **15** |
+| **Final total (after video)** | **—** | **20** |
 
-## Reasons
+## Project snapshot (from submissions)
 
-### 1. Innovation & Originality — 4/5
-- Flat-rate equality model that refuses pay-to-rank / lead-broker digitization is a strong normative innovation.
-- Directly attacks middlemen extortion in legal access—conceptually sharp.
-- Tech stack is conventional; originality sits in the market design.
+BIDHI is an open-access legal matching platform: the public searches lawyers free forever; verified lawyers pay a single flat-rate subscription (example ৳500/month) so ranking cannot be bought. It attacks middlemen finders’ fees and kickback-driven case assignment. Stack cited: Django + MySQL on VPS; site link in BM docx: lexconnect-e7nr.onrender.com. Dedicated business-model file contains only the URL.
 
-### 2. Feasibility — 3.5/5
-- Django/MySQL VPS and live link show a working direction; ৳500/mo lawyer tier is simple.
-- Dedicated BM file is nearly empty (URL only)—weak commercialization packaging.
-- Trust, lawyer supply, and legal compliance will decide real feasibility.
+---
 
-### 3. Impact & Relevance — 4/5
-- Access-to-justice and anti-broker framing are highly relevant for low-income litigants.
-- If merit-based matching works, social impact is substantial.
-- Depends on lawyer adoption and public awareness.
+## 1. Innovation & Originality — 4/5
 
-### 4. Presentation (Video Quality & Clarity) — —/5
-- Left blank for manual marking later.
+### What was evaluated
+Novelty of the anti-broker market design versus a generic lawyer directory.
+
+### Analysis
+Technical stack is conventional. Innovation sits in **refusing** pay-per-lead, sponsored placement, and commission models that recreate offline brokers digitally. Flat-rate equality + free public access is a normative product invention aimed at merit-based visibility. That is sharper conceptual originality than most “AI marketplace” entries, even without novel ML.
+
+### Why this score
+**4/5** — Strong market-design originality; not a new technology class.
+
+---
+
+## 2. Feasibility — 3.5/5
+
+### What was evaluated
+Evidence of a working product and seriousness of commercialization docs.
+
+### Analysis
+Django/MySQL and a live link support buildability; pricing is simple. However, the uploaded BM is essentially empty (URL only)—a documentation failure for judging. Lawyer supply, verification, dispute handling, and legal/regulatory trust are non-trivial. Feasibility of software is fine; feasibility of a trusted legal marketplace is harder and under-documented in the BM file.
+
+### Why this score
+**3.5/5** — Working-direction software; weak BM packaging and marketplace cold-start risk.
+
+---
+
+## 3. Impact & Relevance — 4/5
+
+### What was evaluated
+Access-to-justice relevance for low-income and rural litigants.
+
+### Analysis
+Materials describe socio-economic extortion via middlemen and kickback-driven lawyer assignment—serious equity problems. If Bidhi works, impact on vulnerable litigants and ethical practitioners is high. Success depends on adoption and trust; problem relevance itself is strong.
+
+### Why this score
+**4/5** — High social relevance; impact contingent on network effects, so not a full 5.
+
+---
+
+## 4. Presentation (Video Quality & Clarity) — —/5
+
+Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+
+---
+
+## Overall note
+
+**Scored subtotal: 11.5/15.** Final contest total out of 20 depends on the pending Presentation mark.
