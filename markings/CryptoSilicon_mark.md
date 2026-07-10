@@ -16,9 +16,9 @@
 | 1. Innovation & Originality | 5 | 5 |
 | 2. Feasibility | 2 | 5 |
 | 3. Impact & Relevance | 4 | 5 |
-| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| 4. Presentation (Video Quality & Clarity) | 3.5 | 5 |
 | **Subtotal (criteria 1–3)** | **11** | **15** |
-| **Final total (after video)** | **—** | **20** |
+| **Final total (after video)** | **14.5** | **20** |
 
 ## Project snapshot (from submissions)
 
@@ -65,12 +65,12 @@ Counterfeit and tampered chips threaten avionics, medical, defense, and IoT supp
 
 ---
 
-## 4. Presentation (Video Quality & Clarity) — —/5
+## 4. Presentation (Video Quality & Clarity) — 3.5/5
 
-Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+Manual presentation mark from `notes.md`: **3.5/5**. Final total **14.5/20** (subtotal 11 + presentation 3.5).
 
 ---
 
 ## Overall note
 
-**Scored subtotal: 11/15.** Final contest total out of 20 depends on the pending Presentation mark.
+**Scored subtotal: 11/15.** Presentation **3.5/5**. **Final: 14.5/20.**

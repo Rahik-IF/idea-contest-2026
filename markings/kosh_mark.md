@@ -16,9 +16,9 @@
 | 1. Innovation & Originality | 3.5 | 5 |
 | 2. Feasibility | 4 | 5 |
 | 3. Impact & Relevance | 3.5 | 5 |
-| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| 4. Presentation (Video Quality & Clarity) | 4 | 5 |
 | **Subtotal (criteria 1–3)** | **11** | **15** |
-| **Final total (after video)** | **—** | **20** |
+| **Final total (after video)** | **15** | **20** |
 
 ## Project snapshot (from submissions)
 
@@ -65,12 +65,12 @@ Gen Z emergency-fund gap (as cited) matters for students but is narrower than na
 
 ---
 
-## 4. Presentation (Video Quality & Clarity) — —/5
+## 4. Presentation (Video Quality & Clarity) — 4/5
 
-Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+Manual presentation mark from `notes.md`: **4/5**. Final total **15/20** (subtotal 11 + presentation 4).
 
 ---
 
 ## Overall note
 
-**Scored subtotal: 11/15.** Final contest total out of 20 depends on the pending Presentation mark.
+**Scored subtotal: 11/15.** Presentation **4/5**. **Final: 15/20.**

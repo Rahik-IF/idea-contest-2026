@@ -16,9 +16,9 @@
 | 1. Innovation & Originality | 2.5 | 5 |
 | 2. Feasibility | 3.5 | 5 |
 | 3. Impact & Relevance | 4.5 | 5 |
-| 4. Presentation (Video Quality & Clarity) | — | 5 |
+| 4. Presentation (Video Quality & Clarity) | 5 | 5 |
 | **Subtotal (criteria 1–3)** | **10.5** | **15** |
-| **Final total (after video)** | **—** | **20** |
+| **Final total (after video)** | **15.5** | **20** |
 
 ## Project snapshot (from submissions)
 
@@ -65,12 +65,12 @@ Time-to-ambulance is directly tied to survival. Transparent pricing and tracking
 
 ---
 
-## 4. Presentation (Video Quality & Clarity) — —/5
+## 4. Presentation (Video Quality & Clarity) — 5/5
 
-Left blank intentionally. Judges will mark video quality and clarity manually later. Do not infer a video score from documents alone.
+Manual presentation mark from `notes.md`: **5/5**. Final total **15.5/20** (subtotal 10.5 + presentation 5).
 
 ---
 
 ## Overall note
 
-**Scored subtotal: 10.5/15.** Final contest total out of 20 depends on the pending Presentation mark.
+**Scored subtotal: 10.5/15.** Presentation **5/5**. **Final: 15.5/20.**
